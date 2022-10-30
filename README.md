@@ -75,9 +75,23 @@
 - Limits to Growth: The 30-Year Update - Donella H. Meadows
 - Peter Pan - James M. Barrie
 
+## 2012
+
+- The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine - Charles Petzold
+
 ## 2011
 
 - Schrödingers Katze auf dem Mandelbrotbaum: Durch die Hintertür zur Wissenschaft - Ernst Peter Fischer
 - Nudge: Improving Decisions About Health, Wealth, and Happiness - Cass R. Sunstein, Richard H. Thaler
 - Die Kunst, Recht zu behalten - Arthur Schopenhauer
 - The Big Short: Inside the Doomsday Machine - Michael Lewis
+
+## 2008
+
+- Der Schwarze Schwan - Nassim Nicholas Taleb
+- The Dismal Science: How Thinking Like an Economist Undermines Community - Stephen A. Marglin
+
+## 2005
+
+- Fundamentals of Transactional Information Systems - Weikum, Gerhard
+- Es ist wie Verliebtsein - Johan Nilsson
