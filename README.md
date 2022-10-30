@@ -91,7 +91,15 @@
 - Der Schwarze Schwan - Nassim Nicholas Taleb
 - The Dismal Science: How Thinking Like an Economist Undermines Community - Stephen A. Marglin
 
+## 2007
+
+- The Age of Turbulence, Adventures in a New World - Alan Greenspan
+
 ## 2005
 
 - Fundamentals of Transactional Information Systems - Weikum, Gerhard
 - Es ist wie Verliebtsein - Johan Nilsson
+
+## 2004
+
+- Mein Weltbild - Albert Einstein
