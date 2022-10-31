@@ -2,6 +2,7 @@
 
 ## 2022
 
+- Red Mars - Kim Stanley Robinson
 - What If?: Serious Scientific Answers to Absurd Hypothetical Questions - Randall Munroe
 - The Ministry for the Future - Kim Stanley Robinson
 - The Testaments - Margaret Atwood
