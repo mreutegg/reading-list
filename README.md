@@ -57,6 +57,7 @@
 
 ## 2016
 
+- Die nächste Welt - Isaac Asimov
 - The Man Who Knew: The Life and Times of Alan Greenspan - Sebastian Mallaby
 - Das Zimmer - Jonas Karlsson
 
