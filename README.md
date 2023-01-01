@@ -1,5 +1,9 @@
 # Reading List
 
+## 2023
+
+- Green Mars - Kim Stanley Robinson
+
 ## 2022
 
 - Red Mars - Kim Stanley Robinson
