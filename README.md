@@ -2,6 +2,7 @@
 
 ## 2023
 
+- Blue Mars - Kim Stanley Robinson
 - Green Mars - Kim Stanley Robinson
 
 ## 2022
