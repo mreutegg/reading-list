@@ -2,6 +2,7 @@
 
 ## 2023
 
+- Hyperion - Dan Simmons
 - Blue Mars - Kim Stanley Robinson
 - Green Mars - Kim Stanley Robinson
 
