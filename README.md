@@ -2,6 +2,8 @@
 
 ## 2023
 
+- The Moon Is a Harsh Mistress - Robert A. Heinlein
+- Rendezvous with Rama - Arthur C. Clarke
 - Hyperion - Dan Simmons
 - Blue Mars - Kim Stanley Robinson
 - Green Mars - Kim Stanley Robinson
