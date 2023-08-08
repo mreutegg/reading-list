@@ -2,6 +2,7 @@
 
 ## 2023
 
+- Slow Time Between the Star - John Scalzi
 - The Moon Is a Harsh Mistress - Robert A. Heinlein
 - Rendezvous with Rama - Arthur C. Clarke
 - Hyperion - Dan Simmons
