@@ -2,6 +2,9 @@
 
 ## 2023
 
+- Galactic North - Alastair Reynolds
+- Void - Veronica Roth
+- How It Unfolds - James S. A. Corey
 - Slow Time Between the Star - John Scalzi
 - The Moon Is a Harsh Mistress - Robert A. Heinlein
 - Rendezvous with Rama - Arthur C. Clarke
