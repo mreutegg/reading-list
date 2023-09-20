@@ -2,7 +2,7 @@
 
 ## 2023
 
-- Revelation Space- Alastair Reynolds
+- Revelation Space - Alastair Reynolds
 - Galactic North - Alastair Reynolds
 - Void - Veronica Roth
 - How It Unfolds - James S. A. Corey
