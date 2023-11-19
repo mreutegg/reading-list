@@ -2,6 +2,7 @@
 
 ## 2023
 
+- Redemption Ark - Alastair Reynolds
 - Revelation Space - Alastair Reynolds
 - Galactic North - Alastair Reynolds
 - Void - Veronica Roth
