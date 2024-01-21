@@ -2,6 +2,7 @@
 
 ## 2023
 
+- Absolution Gap - Alastair Reynolds
 - Redemption Ark - Alastair Reynolds
 - Revelation Space - Alastair Reynolds
 - Galactic North - Alastair Reynolds
