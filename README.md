@@ -1,5 +1,9 @@
 # Reading List
 
+## 2024
+
+- Children of Time - Adrian Tchaikovsky
+
 ## 2023
 
 - Absolution Gap - Alastair Reynolds
