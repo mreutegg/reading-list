@@ -2,6 +2,9 @@
 
 ## 2024
 
+- The Object - Joshua T. Calvert
+- Dune Messiah - Frank Herbert
+- Neuromancer- William Gibson
 - Children of Time - Adrian Tchaikovsky
 
 ## 2023
