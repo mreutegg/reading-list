@@ -2,6 +2,9 @@
 
 ## 2024
 
+- 2001: A Space Odyssey - Arthur C. Clarke
+- Brave New World - Aldous Huxley
+- Old Man's War - John Scalzi
 - The Object - Joshua T. Calvert
 - Dune Messiah - Frank Herbert
 - Neuromancer- William Gibson
