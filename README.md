@@ -2,6 +2,8 @@
 
 ## 2024
 
+- Ikarus - Andreas Brandhorst
+- The Mercy of Gods - James S. A. Corey
 - 2001: A Space Odyssey - Arthur C. Clarke
 - Brave New World - Aldous Huxley
 - Old Man's War - John Scalzi
