@@ -2,6 +2,8 @@
 
 ## 2024
 
+- 2312 - Kim Stanley Robinson
+- Chasm City - Alastair Reynolds
 - Ikarus - Andreas Brandhorst
 - The Mercy of Gods - James S. A. Corey
 - 2001: A Space Odyssey - Arthur C. Clarke
